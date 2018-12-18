@@ -39,4 +39,4 @@ The test:
 * Markdown resources
     * [Markdown Tutorial](https://www.markdowntutorial.com/)
     * [Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-    * [Markdown Compiler](https://dillinger.io/) - use this to test your markdown formatti
+    * [Markdown Compiler](https://dillinger.io/) - use this to test your markdown formatting
