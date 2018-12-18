@@ -2,11 +2,11 @@
 
 ## List of the parts of the writing text
 
-The test are composed of two parts. One parts where the test taker shows their ability to review and provide feedback on text and one part where the test taker writes a short technical article based on material sent to them.
+The test are composed of two parts. One part where the test taker shows their ability to review and provide feedback on text and one part where the test taker writes a short technical article based on material sent to them.
 
-### 1. - Reviewing existing documentation and provide feedback
+### 1. - Reviewing existing documentation and providing feedback
 The test taker will be asked to look at the help files in *ietoolkit*. The exercise will then be to find some part of the documentation that can be improved and express why there is room for improvement.
-* The purpose of this test is for the test taker to show that can express the difference between good documentation and bad documentation.
+* The purpose of this test is for the test taker to show that they can express the difference between good documentation and bad documentation.
     * Test takers should find parts of the *ietoolkit* documentation that they think can be difficult to understand for a typical user, and explain why they think that part will be difficult to understand
     * Test takers can make suggestions for how to improve the documentation as a way to explain why it needs to be improved, but we are more interested in *why* the test takers think it can be improved rather than *how* it can be improved.
     * The test is not about picking the part of the documentation in most need of improvement, it is about the test takers ability to discuss the topic of good and bad documentation
